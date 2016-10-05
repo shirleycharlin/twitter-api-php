@@ -30,3 +30,4 @@ if (!isset($_SESSION['access_token'])) {
 	// displaying response of $post object
 	print_r($post);
 }
+?>
